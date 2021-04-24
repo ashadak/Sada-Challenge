@@ -4,4 +4,9 @@ This repository consists of the solution to the Highest Profit problem from the 
 
 This problem is solved using various data manipulation techniques with mainly the use of functions provided in the Python Pandas library.
 
-In order to run this solution, dowload the zip file 
+Note: This file requires Pandas, NumPy dependecies and was tested using a Bash terminal
+
+In order to run this solution:
+ - Dowload the zip file and extract its content.
+ - Open up your terminal and navigate to the folder where the files are located. 
+ - 
